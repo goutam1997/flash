@@ -1,0 +1,41 @@
+2 
+8 9 
+Seoul
+Incheon
+Daejeon
+Daegu
+Gwangju
+Jeonju
+Ulsan
+Busan
+Seoul Daejeon
+Seoul Daegu
+Daegu Gwangju
+Gwangju Jeonju
+Jeonju Busan
+Ulsan Busan
+Daejeon Ulsan
+Daejeon Incheon
+Daejeon Daegu
+8 13 
+A 
+B 
+C 
+D 
+E 
+F 
+G 
+H 
+A B 
+A C 
+C B 
+D C 
+D B 
+D E 
+D F
+E F 
+E G 
+D H 
+H F 
+H G 
+A G 
